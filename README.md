@@ -67,6 +67,33 @@ In terms of commenting, it is important to use comments to explain why you are d
 
 This means that you should use the same coding conventions throughout your codebase, and that you should comment your code liberally.
 
+### Create a detailed README file that explains what your project does and how to install and use it.
+`Creating a detailed README file that explains what your project does and how to install and use it is an essential part of starting an successful open source project. There are several things to keep in mind when` creating a great README.
+
+Creating a README from scratch can be daunting. However, there are many tools out there to help you create a great README file.
+
+This guide provides some tips on how to create an effective README.
+
+1. Keep it simple
+
+Don't try to include too much information in your README. It should be concise and to the point.  This is best done by providing a high-level overview of what your project does and why it is important.
+
+2. Use clear and concise language
+
+Your README should be written in clear and concise language. Be sure to use proper grammar and spelling.
+
+3. Use screenshots and GIFs
+
+Screenshots and GIFs are great ways to show off your project. They can help explain how your project works and how to use it.
+
+4. Include a link to your project's website
+
+If your project has a website, include a link to it in your README. This is a great way to give users more information about your project.
+
+5. Use a template
+
+There are many templates available online that can help you create a great README. Using a template can help you structure your README and ensure that all of the important information is included.
+
 ## Making a Business
 `The top ten ways to have a successful business are:`
 1. Have a clear and attainable business goal.
